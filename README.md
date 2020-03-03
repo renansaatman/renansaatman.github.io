@@ -1,2 +1,2 @@
-# renansaatman.github.io
+http://renansaatman.github.io
 My personal website
